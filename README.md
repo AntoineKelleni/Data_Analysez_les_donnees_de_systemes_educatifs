@@ -1,6 +1,7 @@
-<p style="text-align: center;">
-  <img src="logo_OCR.jpg" alt="Logo Academy" width="100">
+<p align="center">
+  <img src="logo_OCR.jpg" alt="Logo Academy" width="200">
 </p>
+
 <h1 style="text-align: center;">Projet d’analyse exploratoire</h1>
 
 # Contexte
@@ -49,3 +50,4 @@ L'objectif principal est d'identifier les pays présentant un fort potentiel pou
 ## Instructions pour l'exécution
 
 Pour reproduire l'analyse, exécutez le notebook `main.ipynb` en suivant les étapes décrites. Assurez-vous d'avoir les fichiers CSV dans le répertoire `Projet+Python_Dataset_Edstats_csv/` et d'avoir installé les bibliothèques nécessaires (pandas, numpy, matplotlib, seaborn). 
+
